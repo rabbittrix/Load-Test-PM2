@@ -1,0 +1,17 @@
+{
+  "name": "exemplo-pm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roberto de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "loadtest": "^5.0.0",
+    "pm2": "^4.2.3",
+    "restify": "^8.5.1"
+  }
+}
